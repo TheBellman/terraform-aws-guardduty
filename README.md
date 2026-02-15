@@ -48,7 +48,7 @@ so you will need to manually delete the file first.
 
 
 ## License
-Copyright 2026 Little Dog Digital
+Copyright 2026 Little Dog Digital.
 
 Portions Copyright 2018 Leap Beyond Emerging Technologies B.V.
 
